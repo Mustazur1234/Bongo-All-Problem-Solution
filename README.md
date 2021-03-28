@@ -1,17 +1,16 @@
-+++++++++++++++++++++Python engineering written test+++++++++++++++++
+++++++++Python engineering written test+++++++
+#### How to Run the Tests ########
 
-########################## How to Run the Tests #############################
- ------------------------------With virtualenv:-------------------------------------
+ -------With virtualenv:--
 
 $ pip install requirements.txt
 $ pytest -vv
-############################################
 
- ------------------------------With pipenv:------------------------------------
+----With pipenv:---
 
 $ pipenv install
 $ pipenv run pytest -vv
-``#####################################################
+
 
 
 
